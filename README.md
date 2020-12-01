@@ -1,7 +1,6 @@
 # Data Analyst Portfolio
 
-A repository of data analyst projects demonstrating skills I have learned so far. Some projects were accomplished as part of Dataquest's Data Analyst Path. Programming 
-Languages used are **Python** and **SQL (SQLite)**. The projects are presented in Jupyter Notebook (`.ipynb`) files. 
+A repository of data analyst projects demonstrating skills I have learned so far. These include Data Cleaning, Data Analysis, and Data Visualization using **Python**, and Querying a Database with **SQL (SQLite)**. Some projects were accomplished as part of Dataquest's Data Analyst Path. The projects are presented in Jupyter Notebook (`.ipynb`) files. 
 
 For some projects, there are internal links directing the viewer to specific parts of the notebook. As of this time (11/26/2020), some of these links are not supported 
 by GitHub. An issue has been opened [here](https://github.com/microsoft/vscode-jupyter/issues/1330). I apologize for any inconvenience this may cause the viewer. 
@@ -10,7 +9,7 @@ by GitHub. An issue has been opened [here](https://github.com/microsoft/vscode-j
  
 ## Contents
 
-- ### Data Exploration and Visualization
+- ### Data Cleaning, Exploration, and Visualization
   - [Scoring High: Analyzing Correlations Between Factors and SAT Scores of New York High Schools](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/sat_nyc_shools/Data_Analysis.ipynb) - This project analyzes test 
   scores of New York City high schools for the Scholastic Aptitude Test (SAT). Correlations and observations between the SAT scores and certain factors are investigated 
   and visualized using various graphs and maps. 
