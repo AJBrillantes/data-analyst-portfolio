@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Analyst Portfolio
 
 A repository of data science projects demonstrating skills I have learned so far. Some projects were accomplished as part of Dataquest's Data Analyst Path. Programming 
 Languages used are **Python** and **SQL (SQLite)**. The projects are presented in Jupyter Notebook (`.ipynb`) files. 
