@@ -11,7 +11,7 @@ by GitHub. An issue has been opened [here](https://github.com/microsoft/vscode-j
 ## Contents
 
 - ### Data Exploration and Visualization
-  - [Scoring High: Analyzing Correlations Between Factors and SAT Scores of New York High Schools](/sat_nyc_shools/Data_Analysis.ipynb) - This project analyzes test 
+  - [Scoring High: Analyzing Correlations Between Factors and SAT Scores of New York High Schools](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/sat_nyc_shools/Data_Analysis.ipynb) - This project analyzes test 
   scores of New York City high schools for the Scholastic Aptitude Test (SAT). Correlations and observations between the SAT scores and certain factors are investigated 
   and visualized using various graphs and maps. 
   - [The Best and the Worst of the Star Wars Film Franchise (so far)](/star_wars_survey/star_wars.ipynb) - A decade after the release of Star Wars: Revenge of the Sith, 
