@@ -18,10 +18,10 @@ by GitHub. An issue has been opened [here](https://github.com/microsoft/vscode-j
   Disney released the film franchise's seventh installment, Star Wars: The Force Awakens. In anticipation of the movie, [FiveThirtyEight](https://fivethirtyeight.com/) 
   conducted an online survey through SurveyMonkey to assess American's sentiments towards the series so far. The results are visualized in the style of FiveThirtyEight. 
 - ### SQL (SQLite)
-  - [Influencing Business Decisions with SQL](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main//chinook_sql/influencing_business_decisions_w_sql.ipynb) - Chinook is a fictional digital music store. They have a database 
+  - [Influencing Business Decisions with SQL](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/chinook_sql/influencing_business_decisions_w_sql.ipynb) - Chinook is a fictional digital music store. They have a database 
   containing information on their music, employees, and customers. Some business questions are answered by querying the database with SQL. 
 - ### Statistics
-  - [Determining an Education Website's Better Landing Page with an A/B Test](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main//ab_testing/ab_testing_conversion_rates.ipynb) - The UX design team of a fictional Data Science 
+  - [Determining an Education Website's Better Landing Page with an A/B Test](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/ab_testing/ab_testing_conversion_rates.ipynb) - The UX design team of a fictional Data Science 
   online education company has created a new landing page design showing their annual subscription plan. An A/B Test is conducted to determine whether this new design will
   perform better or not. 
 
