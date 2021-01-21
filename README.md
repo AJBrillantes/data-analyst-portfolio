@@ -10,7 +10,7 @@ by GitHub. An issue has been opened [here](https://github.com/microsoft/vscode-j
 ## Contents
 
 - ### Data Cleaning, Analysis, and Visualization
-  - [Scoring High: Analyzing Correlations Between Factors and SAT Scores of New York High Schools](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/sat_nyc_schools/Data_Analysis.ipynb) - This project analyzes test 
+  - [Scoring High: Analyzing Correlations Between Factors and SAT Scores of New York High Schools](https://github.com/AJBrillantes/data-analyst-portfolio/blob/main/sat_nyc_schools/Data_Analysis.ipynb) - This project analyzes test 
   scores of New York City high schools for the Scholastic Aptitude Test (SAT). Correlations and observations between the SAT scores and certain factors are investigated 
   and visualized using various graphs and maps. 
   - [Profitable App Profiles for the App Store and Google Play Markets](https://nbviewer.jupyter.org/github/AJBrillantes/data-analyst-portfolio/blob/main/app_store_google_play/Google%20and%20Apple%20apps%20by%20AJ%20Brillantes.ipynb) - Mobile Free is a fictional company that builds mobile apps for Android and iOS users. The purpose of this project is to determine which types of apps are more likely to attract more users. It is coded purely in Python without the aid of the Libraries listed above.   
